@@ -1,0 +1,5 @@
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Models\bin\Debug\VTSim.Models.dll
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Models\bin\Debug\VTSim.Models.pdb
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Models\obj\Debug\VTSim.Models.csprojResolveAssemblyReference.cache
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Models\obj\Debug\VTSim.Models.dll
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Models\obj\Debug\VTSim.Models.pdb

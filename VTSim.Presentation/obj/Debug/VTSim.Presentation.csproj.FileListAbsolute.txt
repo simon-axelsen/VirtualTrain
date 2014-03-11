@@ -1,0 +1,13 @@
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\bin\Debug\VTSim.Presentation.exe.config
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\bin\Debug\VTSim.Presentation.exe
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\bin\Debug\VTSim.Presentation.pdb
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\VTSim.Presentation.csprojResolveAssemblyReference.cache
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\MainWindow.baml
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\MainWindow.g.cs
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\App.g.cs
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\VTSim.Presentation_MarkupCompile.cache
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\VTSim.Presentation.g.resources
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\VTSim.Presentation.Properties.Resources.resources
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\VTSim.Presentation.csproj.GenerateResource.Cache
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\VTSim.Presentation.exe
+D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\VTSim.Presentation.pdb
