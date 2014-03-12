@@ -11,3 +11,6 @@ D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\D
 D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\VTSim.Presentation.csproj.GenerateResource.Cache
 D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\VTSim.Presentation.exe
 D:\Users\AXELSENS\Workspaces\CsWorkspaces\Private\VTSim\VTSim.Presentation\obj\Debug\VTSim.Presentation.pdb
+D:\Projects\VTSim\VTSim.Presentation\bin\Debug\VTSim.Presentation.exe.config
+D:\Projects\VTSim\VTSim.Presentation\obj\Debug\VTSim.Presentation.exe
+D:\Projects\VTSim\VTSim.Presentation\obj\Debug\VTSim.Presentation.pdb

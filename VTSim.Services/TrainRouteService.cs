@@ -5,23 +5,15 @@ namespace VTSim.Services
 {
     public class TrainRouteService
     {
-        private int _trainNumber;
-
         public TrainRouteService(int trainNumber)
         {
             TrainNumber = trainNumber;
         }
 
-        public int TrainNumber
+        public int TrainNumber { get; set; }
+
+        public ObservableCollection<TrainStation> GetRoute()
         {
-            get { return _trainNumber; }
-            set { _trainNumber = value; }
         }
-
-//        public ObservableCollection<TrainStation> GetRoute()
-//        {
-//            
-//        }
-
     }
 }
