@@ -15,7 +15,7 @@
 
         public ObservableCollection<TrainStation> GetRoute()
         {
-            return new ObservableCollection<TrainStation>();
+            return null;
         }
     }
 }
